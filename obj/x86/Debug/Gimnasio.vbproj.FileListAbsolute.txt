@@ -1,0 +1,16 @@
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\bin\Debug\Gimnasio.exe
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\bin\Debug\Gimnasio.pdb
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\bin\Debug\Gimnasio.xml
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmInicio.resources
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.Resources.resources
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.FrmIndexar_socios.resources
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.vbproj.GenerateResource.Cache
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.exe
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.xml
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.exe
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.xml
+D:\Crystal Indigo\Youtube\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.pdb
+D:\Crystal Indigo\Programadores Informaticos\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.exe
+D:\Crystal Indigo\Programadores Informaticos\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.xml
+D:\Crystal Indigo\Programadores Informaticos\Taller 4\Gimnasio(completo)\Gimnasio\obj\x86\Debug\Gimnasio.pdb
